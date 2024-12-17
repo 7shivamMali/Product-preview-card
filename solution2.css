@@ -93,13 +93,13 @@ body {
 }
 
 .productName {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 700;
     font-family: "Fraunces", serif;
 }
 
-.description{
-    font-size: 15px;
+.description {
+    font-size: 14px;
     line-height: 1.5;
 }
 
@@ -200,7 +200,9 @@ body {
         width: 236px;
     }
 
-
+    .productName {
+        font-size: 32px;
+    }
 
 }
 
